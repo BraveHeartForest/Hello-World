@@ -3,6 +3,4 @@ Just another repository.
 
 New job: fix Mr.Gluck's hazey TV,PDQ!
 
-How I wish I could calculate PI.
-
-3   1   4   1   5   9          2
+How(3) I(1) wish(4) I(1) could(5) calculate(9) PI(2).
