@@ -1,1 +1,3 @@
 This is sample text for GitHub.
+
+Vimを用いた挿入の練習です。
