@@ -10,7 +10,10 @@ Just another repository.
 
 
 
-
+|ヘッダ1|ヘッダ2|ヘッダ3|
+|---|:---:|---:|
+|←寄せ|中央揃え|右フック犬|
+|Left|Center|Right|
 
 
 
